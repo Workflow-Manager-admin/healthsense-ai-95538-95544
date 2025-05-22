@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/healthsense-ai-95538-95544/healthsense_ai"
+}
